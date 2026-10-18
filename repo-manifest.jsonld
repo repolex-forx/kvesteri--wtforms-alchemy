@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kvesteri/wtforms-alchemy/commit/8b5bc887ed6c05c41259341a6b315b277cfd0aa0",
       "git:hexsha": "8b5bc887ed6c05c41259341a6b315b277cfd0aa0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/kvesteri/wtforms-alchemy/commit/4ee692dc694846c1559e18d42133a8ff07241bcb",
